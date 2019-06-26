@@ -1,0 +1,54 @@
+Problem Defination
+
+1)Rockwell  Automation Inc is present all over the world and they have large no of employee all over the world near about 35000 ,17 offshore development centres
+
+2)so that they require  cloud for their IT solution.on which they can acess their all data shared on cloud.they have private cloud for IT solution.in this private cloud security should be provided
+
+3)Nowadays they required huge space.Due to growth of company in all sectors,company want to use Amazon web services public cloud like infrastructure as service.
+
+4)So nowadays all employee should be able to acess their Human  resource solution portal from anywhere in the world
+so no any problem they face while acess the data on cloud without any interruption  so it's become more efficient .
+
+5)Amazon web services provided all over world.company want to build and host this information system in public cloud google cloud platform or AWS
+
+6)Employee data increase day by day so there is need to required data to be stored  on cloud.portal will store all employee info.
+
+7)There are some functional and non functional requirement available below
+ 
+Non- fuctional Requirement
+ss
+1)secure
+2)efficienct
+3)scalable
+4)flexible
+	
+
+Functional Requirement
+
+1)Admin 
+
+login()-can login
+insert() -insert information/data into database
+update() -update information/data  into database
+delete() -delete information/data  from database
+
+
+
+2)Employee
+
+
+registration()-can register data 
+login()-can login
+insert() -insert information/data into database
+update() -update information/data  into database
+delete() -delete information/data  from database
+
+
+3)Customer
+
+registration()-can register data 
+login()-can login
+viewInfo()-view all information
+
+
+
